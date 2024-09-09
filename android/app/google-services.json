@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1039428245850",
+    "project_id": "groceries-list-70015",
+    "storage_bucket": "groceries-list-70015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039428245850:android:e9550be5892a95580e7b63",
+        "android_client_info": {
+          "package_name": "com.santosenoqe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA296bzLL29jhDv1YrBq6Z5M5sakmgweNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039428245850:android:3019c2a81de025780e7b63",
+        "android_client_info": {
+          "package_name": "com.santosenoque"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA296bzLL29jhDv1YrBq6Z5M5sakmgweNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039428245850:android:abe24dff5320210d0e7b63",
+        "android_client_info": {
+          "package_name": "com.santosenoque.shopping_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA296bzLL29jhDv1YrBq6Z5M5sakmgweNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
